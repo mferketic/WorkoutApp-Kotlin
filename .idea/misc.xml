@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Courses/Workout/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.36018518518518516" />
+        <entry key="..\:/Courses/Workout/app/src/main/res/drawable/circular_progress_bar.xml" value="0.36018518518518516" />
+        <entry key="..\:/Courses/Workout/app/src/main/res/drawable/circular_progress_gray.xml" value="0.36018518518518516" />
+        <entry key="..\:/Courses/Workout/app/src/main/res/drawable/item_circular_color_accent_background.xml" value="0.36018518518518516" />
+        <entry key="..\:/Courses/Workout/app/src/main/res/drawable/item_circular_color_accent_border.xml" value="0.36574074074074076" />
+        <entry key="..\:/Courses/Workout/app/src/main/res/drawable/item_color_accent_border_ripple_background.xml" value="0.36574074074074076" />
+        <entry key="..\:/Courses/Workout/app/src/main/res/layout/activity_exercise.xml" value="0.28306159420289856" />
+        <entry key="..\:/Courses/Workout/app/src/main/res/layout/activity_main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
