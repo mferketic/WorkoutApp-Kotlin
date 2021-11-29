@@ -7,6 +7,9 @@
         <entry key="..\:/Courses/Workout/app/src/main/res/drawable-v24/item_circular_thin_color_accent_border.xml" value="0.3828125" />
         <entry key="..\:/Courses/Workout/app/src/main/res/drawable/circular_progress_bar.xml" value="0.36018518518518516" />
         <entry key="..\:/Courses/Workout/app/src/main/res/drawable/circular_progress_gray.xml" value="0.36018518518518516" />
+        <entry key="..\:/Courses/Workout/app/src/main/res/drawable/drawable_radio_group_tab_background.xml" value="0.22135416666666666" />
+        <entry key="..\:/Courses/Workout/app/src/main/res/drawable/drawable_units_tab_selector.xml" value="0.3828125" />
+        <entry key="..\:/Courses/Workout/app/src/main/res/drawable/drawable_units_tab_text_color_selector.xml" value="0.3828125" />
         <entry key="..\:/Courses/Workout/app/src/main/res/drawable/item_circular_color_accent_background.xml" value="0.36018518518518516" />
         <entry key="..\:/Courses/Workout/app/src/main/res/drawable/item_circular_color_accent_border.xml" value="0.36574074074074076" />
         <entry key="..\:/Courses/Workout/app/src/main/res/drawable/item_circular_color_gray_background.xml" value="0.3828125" />
@@ -14,6 +17,7 @@
         <entry key="..\:/Courses/Workout/app/src/main/res/layout/activity_bmiactivity.xml" value="0.36666666666666664" />
         <entry key="..\:/Courses/Workout/app/src/main/res/layout/activity_exercise.xml" value="0.28306159420289856" />
         <entry key="..\:/Courses/Workout/app/src/main/res/layout/activity_finish.xml" value="0.20520833333333333" />
+        <entry key="..\:/Courses/Workout/app/src/main/res/layout/activity_history.xml" value="0.36666666666666664" />
         <entry key="..\:/Courses/Workout/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Courses/Workout/app/src/main/res/layout/dialog_custom_back_confirmation.xml" value="0.36666666666666664" />
         <entry key="..\:/Courses/Workout/app/src/main/res/layout/item_exercise_status.xml" value="0.36666666666666664" />
